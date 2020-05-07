@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\LENOVO\source\repos\csdll\csdll\Source.cpp(87,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  csdll.vcxproj -> C:\Users\LENOVO\source\repos\csdll\Release\csdll.dll
